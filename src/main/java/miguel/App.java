@@ -10,4 +10,9 @@ public class App
     {
         System.out.println( "Hello xxxx!" );
     }
+
+
+    public static String echo(String msg) {
+        return msg;
+    }
 }
